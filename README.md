@@ -10,6 +10,8 @@ Most of our code is written based on Tensorflow, but we also use Keras for the c
 
 ### Tensorflow: [Installation Instructions](https://www.tensorflow.org/get_started/os_setup#download-and-setup) (tested on 0.12.1)
 
+### tqdm
+
 ### Distance (Optional):
 
 ```
