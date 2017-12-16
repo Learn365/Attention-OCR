@@ -1,6 +1,11 @@
 Distance-0.1.3.tar.gz
 distance/
 sample.tgz
+sample/
+evaluation_data.tgz
+evaluation_data/
+model.tgz
+model/
 .vscode/
 __pycache__/
 log.txt
